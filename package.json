@@ -12,11 +12,11 @@
 	},
 	"dependencies": {
 		"bcrypt": "^5.0.1",
-		"express": "^4.14.1",
-		"cors": "^2.8.1",
 		"body-parser": "^1.16.0",
-		"mongodb": "^2.2.22",
-		"helmet": "^3.4.0"
+		"cors": "^2.8.1",
+		"express": "^4.17.1",
+		"helmet": "^3.4.0",
+		"mongodb": "^2.2.22"
 	},
 	"repository": {
 		"type": "git",
